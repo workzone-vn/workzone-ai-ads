@@ -1,13 +1,7 @@
 <p align="center">
-  <img src="public/brand/workzone-horizontal.svg" alt="Workzone AI Ads" height="56">
+  <img src="docs/images/banner.png" alt="Workzone AI Ads" width="100%">
 </p>
 
-<h3 align="center">Kinh nghiệm 10 năm chạy ads của Hồ Quốc Bảo. AI của bạn làm.</h3>
-
-<p align="center">
-  Công cụ quản lý quảng cáo Meta (Facebook / Instagram) và Google Ads, tự cài trên máy của bạn.<br>
-  Nối Claude hoặc ChatGPT của chính bạn vào; AI làm theo 56 luật đúc kết từ việc chạy ads cho khách thật.
-</p>
 
 <p align="center">
   <a href="#cài-đặt">Cài đặt</a> · <a href="RULES.md">Luật Bảo</a> · <a href="docs/">Tài liệu</a> · <a href="CONTRIBUTING.md">Đóng góp</a> · <a href="README.md">English</a>
@@ -26,6 +20,8 @@
 Repo này là công cụ đó, chia sẻ miễn phí cho cộng đồng: cài trên máy hoặc máy chủ của bạn, nối AI của bạn, và nó quản lý quảng cáo theo cách anh Bảo làm. Mọi thay đổi đụng tới tiền đều chờ bạn duyệt.
 
 <br clear="left">
+
+<p align="center"><img src="docs/images/how-it-works.png" alt="How it works: ads, conversations, AI, sales, optimise, with 56 rules and your approval" width="100%"></p>
 
 Điểm chính không phải "AI viết quảng cáo", mà là một vòng khép kín: quảng cáo kéo khách nhắn tin → AI đọc hội thoại → sale chấm khách → điểm của sale quay lại chỉnh targeting và ngân sách, vòng sau tiêu tiền tốt hơn.
 

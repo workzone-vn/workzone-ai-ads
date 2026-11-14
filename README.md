@@ -1,13 +1,7 @@
 <p align="center">
-  <img src="public/brand/workzone-horizontal.svg" alt="Workzone AI Ads" height="56">
+  <img src="docs/images/banner.png" alt="Workzone AI Ads: Hồ Quốc Bảo's ads playbook, run by your own AI" width="100%">
 </p>
 
-<h3 align="center">Hồ Quốc Bảo's ads playbook, run by your own AI.</h3>
-
-<p align="center">
-  Self-hosted Meta (Facebook / Instagram) and Google Ads manager for agencies and shop owners.<br>
-  Connect your own Claude or ChatGPT; it works by 56 rules from 10 years of running ads for real clients.
-</p>
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/github/license/workzone-vn/workzone-ai-ads" alt="License: MIT"></a>
@@ -32,6 +26,8 @@
 This repository is that tool, given to the community for free: install it on your own machine or server, connect your own AI, and it manages your ads the way Bảo does, with every change waiting for your approval.
 
 <br clear="left">
+
+<p align="center"><img src="docs/images/how-it-works.png" alt="How it works: ads, conversations, AI, sales, optimise, with 56 rules and your approval" width="100%"></p>
 
 The point is not "AI writes ads". It is a closed loop: ads bring conversations → AI reads them → sales rate the leads → those ratings flow back into targeting and optimization, so the next round spends better.
 
